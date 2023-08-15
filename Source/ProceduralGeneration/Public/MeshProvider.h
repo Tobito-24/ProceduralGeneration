@@ -8,7 +8,7 @@
 #include "MeshProvider.generated.h"
 
 UCLASS()
-class PROCEDURALGENERATION_API AMeshProvider : public AActor
+class PROCEDURALGENERATION_API AMeshProvider : public ARealtimeMeshActor
 {
 	GENERATED_BODY()
 	
